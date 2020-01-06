@@ -1,0 +1,4 @@
+export const START_LOADING = 'START_LOADING';
+export const END_LOADING = 'END_LOADING';
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const FETCH_MOVIES_ERROR = 'FETCH_MOVIES_ERROR';

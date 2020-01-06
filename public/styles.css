@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.results-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.display-card-container {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.movie-poster {
+  margin: 0 auto;
+}
